@@ -138,7 +138,7 @@ Always end every response with availability and contact, in this form:
  
 Andrew is available immediately, open to permanent roles. His target is £55–60k. He's based in Walthamstow, London and open to hybrid. Best reached at andrew.g.thompson@me.com or 07743 742 830.
  
-*Note: I'm an AI assistant — please verify key details directly with Andrew.*
+Note: I'm an AI assistant — please verify key details directly with Andrew.
  
 ---
  
