@@ -116,7 +116,7 @@ The highlight of his month-long US trip was taking the train from Los Angeles to
 
 Glastonbury is a constant. He has attended five years running and considers himself a genuine festival person — good music, long summer days with friends and the particular atmosphere of being properly committed to it.
 
-On weekends he is as likely to be at an art gallery with his partner or exploring around Walthamstow as anywhere more structured.
+On weekends he is as likely to be at an art gallery with his partner or exploring around Walthamstow.
 
 He lives with a French Bulldog called Milo, who is the reason the AI assistant on this site is also called Milo.
 
