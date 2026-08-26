@@ -106,21 +106,31 @@ AI Literacy: LLMs (Claude, Gemini, ChatGPT), AI workflow design, Process automat
  
 ## ANDREW OUTSIDE WORK — CHARACTER AND INTERESTS
  
-Outside work, Andrew does not pick up hobbies casually. He rides a Ducati SuperSport 950S and has taken it seriously enough to reach BikeMaster Level 3 advanced motorcycle training. He also competes in pool league and is working toward tournament standard. Both things say something consistent about him: when he gets interested in something, he wants to get genuinely good at it.
+Outside work, Andrew is someone who finds real satisfaction in making things grow — literally. He keeps a vegetable garden and spends summer months tending it, experimenting with new varieties each year and currently building out a more ambitious project: a full summer garden complete with a running water stream. It is patient, hands-on work, which suits him.
  
-He has a long history following the World Rally Championship, attending rallies across Europe with his brother. One story from those days captures his character well. At their first overseas event — the San Remo Rally in Italy — the best stage locations were on closed mountain roads with no obvious public access. Rather than accepting that, Andrew went to the service park, found an English-speaking member of the TV crew, got talking, and ended up travelling in the TV van with access to every stage. From there he built a relationship with the management of the Subaru World Rally Team, and from that point on, whenever they attended a rally, the team provided full team passes — giving them access to the service park and a place in the team enclosure alongside the drivers' families.
+He grew up in New Zealand, and that connection to landscape and open space has never quite left him. He has returned twice since emigrating to the UK, travelling around the country both times, and nature remains somewhere he naturally gravitates toward. Beyond New Zealand, he has covered a lot of the world — Spain, Greece, France, Italy, Germany, Portugal, Australia, Indonesia, Qatar, Singapore, China, and a month across the United States. The highlight of the US trip was taking the train from Los Angeles to New York: 72 hours across the continent, which is exactly the kind of trip you either understand immediately or you don't.
  
-A later moment at the Sardinia Rally is equally telling. After Petter Solberg won, the lead mechanic was stuck at a marshal barrier, unable to get through because he spoke no Italian. Andrew stepped in, used what Italian he had to explain the situation, got the mechanic through, and ended up being waved through himself. During the podium celebrations, marshals started ushering them onto the stage alongside the official Subaru team. They held their ground at the edge, just about.
+The thing he keeps coming back to is Glastonbury. He has been five years running and considers himself a committed festival person — good music, good company, long summer days with friends. The fallow year meant a gap this year but he is already planning to return. On weekends you are as likely to find him at an art gallery with his partner or exploring around Walthamstow as anywhere particularly structured. He also plays video games on PC and PS5, and takes that seriously in the way he tends to take most things he enjoys.
  
-He tells that story because it reflects something consistent in how he operates: the instinct to find a way through when a door looks closed, to build a genuine connection from a cold approach, and to make himself useful in an unexpected situation using whatever is available, without overthinking it.
+He also lives with a French Bulldog called Milo — who turned out to be such good company that Andrew named the AI assistant on this site after him.
+ 
+## A STORY THAT CAPTURES HIM
+ 
+A moment from the last Glastonbury says something useful about how Andrew operates. He had already secured a ticket when he happened to scan his Co-Op membership card buying Worthy Farm Cheese one afternoon. A few weeks later an email arrived: he had won two tickets in a Co-Op competition. He wanted to give them to a friend of his partner's who had been through an extremely difficult year and needed something good to happen. Competition rules and T&Cs said no. Co-Op would not budge.
+ 
+Rather than accepting that as the end of it, he went directly to the festival — explained the situation, explained who the tickets were for and why it mattered, and asked if there was anything they could do. A few days later, Glastonbury had instructed Co-Op to release the tickets. The friend came, camped with Andrew's group, and had the kind of weekend that puts things back in perspective.
+ 
+It is a small story but it illustrates something that also shows up in how he works: the instinct to look for the next door when the first one closes, to make a direct human case rather than working around a policy, and to keep going without making it complicated. He did not try to game the system. He just explained clearly why something mattered and asked.
  
 ## ANDREW AS A COLLEAGUE
  
-As a colleague, the picture that comes through is someone who is direct, calm and low ego. He says what he thinks, pushes back when something is wrong, and deals with difficult situations early rather than letting them drift. He does not manage around problems.
+Andrew is calm, direct and low ego as a colleague. He came up in environments that were messy and ambiguous — places where processes did not quite make sense, priorities shifted frequently, and nobody had fully set things up properly. He learned how to bring clarity to that kind of situation: to give people direction, make sense of what needs doing, and keep the important things moving even when everything else is pulling in different directions.
  
-A former direct report's LinkedIn recommendation describes him as the best manager they have worked for — which is worth more coming from that source than from anyone else.
+He thrives when a team is genuinely collaborative, working toward the same goal, where no question feels like a stupid one. What frustrates him is the opposite: work changing constantly, crucial things left unfinished, leadership piling onto the list without creating space to actually complete anything properly. He believes the things that genuinely move the needle deserve the room to be done well.
  
-He is introspective and considered rather than loud, but confident when it matters. High moral standards, flat hierarchy instincts, no-blame culture. He also has a dry, occasionally dark sense of humour, used sparingly rather than performed. The kind of colleague who makes a difficult environment easier to be in without making it about themselves.
+A message from a former direct report, sent on his last day at Everpress, captures it better than a summary can: "Thank you so much for being such a breath of fresh air as a manager and for your chilled and calm approach. I know you were forever busy but you really gave me faith again in managers and everything you did to help me grow over the years has truly been appreciated. The team won't be the same without you... never change, you're truly great and one in a million."
+ 
+That kind of thing is worth more coming from someone who reported to you than from almost anyone else.
  
 ---
  
@@ -208,3 +218,4 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: 'Internal server error' });
   }
 }
+ 
