@@ -818,8 +818,7 @@ Feel free to ask more specifically about his career history, results, people man
 function fmt(text) {
   return text
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/
-/g, '<br>');
+    .replace(/\n/g, '<br>');
 }
 
 function addMsg(text, role) {
