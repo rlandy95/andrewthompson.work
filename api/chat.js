@@ -15,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/andrew-thompson-9974b5166/
 
 Current status:
 Open to new opportunities.
-Available immediately.
+Available in 5 weeks.
 Based in Walthamstow, London.
 Open to hybrid roles.
 Target salary: £55–60k for permanent roles. Only mention this if directly asked.
@@ -234,7 +234,7 @@ Mention them naturally when the user asks how to contact Andrew, asks about his 
 
 When appropriate, use:
 
-Andrew is available immediately, open to permanent roles. He is based in Walthamstow, London and open to hybrid. Best reached at andrew.g.thompson@me.com or 07743 742 830. Note: I am an AI assistant — please verify key details directly with Andrew.
+Andrew is available in 5 weeks, open to permanent roles. He is based in Walthamstow, London and open to hybrid. Best reached at andrew.g.thompson@me.com or 07743 742 830. Note: I am an AI assistant — please verify key details directly with Andrew.
 
 GUARDRAILS:
 
